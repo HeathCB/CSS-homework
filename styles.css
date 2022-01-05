@@ -1,0 +1,89 @@
+body {
+    background-color: rgb(32, 114, 32);
+}
+
+h1 {
+    color: rgb(245, 253, 253);
+}
+
+div {
+    background-color: cornflowerblue;
+    border-style: solid;
+    border-color: black;
+    border-radius: 5px;
+}
+
+.shadow-text {
+    text-shadow: gray 1px 1px;
+}
+
+
+.hover:hover {
+    background-color: lightgreen;
+}
+
+.homeList {
+    background-color: darkgoldenrod;
+}
+
+.head3 {
+    border-style: ridge;
+}
+
+table {
+    border-collapse: collapse;
+    height: 10px;
+    width: 400px;
+}
+
+tr {
+    border-style: dashed;
+    border-color: goldenrod;
+    border-radius: 2px;
+}
+
+td {
+    border-style: dashed;
+    border-color: goldenrod;
+    border-radius: 2px;
+}
+
+input[type=button], input[type=submit], input[type=reset]{
+    background-color: rgb(199, 180, 243);
+    border-style: none;
+    border-color: none;
+    padding: 2px 4px;
+    margin: auto;
+    cursor: pointer;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+input[type=text] {
+    background-color: rgb(252, 252, 253);
+    border-style: outset;
+    border-color: lightgrey;
+}
+
+input[type=text]:focus {
+    background-color: rgb(26, 189, 243);
+}
+
+label {
+    background-color: lightgreen;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: fantasy;
+    font-weight: lighter;
+}
+
+h1 {
+    font-family: fantasy;
+    font-weight: lighter;
+}
+
+h3 {
+    font-family: fantasy;
+    font-weight: lighter;
+}
